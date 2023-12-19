@@ -1,0 +1,1000 @@
+I thought, Why can I not connect the normal interface of a physical sticky note to the digital world?
+A message written on a sticky note to my mom, on paper, can come to an SMS, or maybe a meeting reminder automatically syncs with my digital calendar -- a to-do list that automatically syncs with you.
+But you can also search in the digital world, or maybe you can write a query, saying, What is Dr. Smith's address?
+and this small system actually prints it out -- so it actually acts like a paper input-output system, just made out of paper.
+In another exploration, I thought of making a pen that can draw in three dimensions.
+So, I implemented this pen that can help designers and architects not only think in three dimensions, but they can actually draw, so that it's more intuitive to use that way.
+Then I thought, Why not make a Google Map, but in the physical world?
+Rather than typing a keyword to find something, I put my objects on top of it.
+If I put a boarding pass, it will show me where the flight gate is.
+A coffee cup will show where you can find more coffee, or where you can trash the cup.
+So, these were some of the earlier explorations I did because the goal was to connect these two worlds seamlessly.
+Among all these experiments, there was one thing in common I was trying to bring a part of the physical world to the digital world.
+I was taking some part of the objects, or any of the intuitiveness of real life, and bringing them to the digital world, because the goal was to make our computing interfaces more intuitive.
+But then I realized that we humans are not actually interested in computing.
+What we are interested in is information.
+We want to know about things.
+We want to know about dynamic things going around.
+So I thought, around last year -- in the beginning of the last year -- I started thinking, Why can I not take this approach in the reverse way?
+Maybe, How about I take my digital world and paint the physical world with that digital information?
+Because pixels are actually, right now, confined in these rectangular devices that fit in our pockets.
+Why can I not remove this confine and take that to my everyday objects, everyday life so that I don't need to learn the new language for interacting with those pixels?
+So, in order to realize this dream, I actually thought of putting a big-size projector on my head.
+I think that's why this is called a head-mounted projector, isn't it?
+I took it very literally, and took my bike helmet, put a little cut over there so that the projector actually fits nicely.
+So now, what I can do -- I can augment the world around me with this digital information.
+But later, I realized that I actually wanted to interact with those digital pixels, also.
+So I put a small camera over there that acts as a digital eye.
+Later, we moved to a much better, consumer-oriented pendant version of that, that many of you now know as the SixthSense device.
+But the most interesting thing about this particular technology is that you can carry your digital world with you wherever you go.
+You can start using any surface, any wall around you, as an interface.
+The camera is actually tracking all your gestures.
+Whatever you're doing with your hands, it's understanding that gesture.
+And, actually, if you see, there are some color markers that in the beginning version we are using with it.
+You can start painting on any wall.
+You stop by a wall, and start painting on that wall.
+But we are not only tracking one finger, here.
+We are giving you the freedom of using all of both of your hands, so you can actually use both of your hands to zoom into or zoom out of a map just by pinching all present.
+The camera is actually doing -- just, getting all the images -- is doing the edge recognition and also the color recognition and so many other small algorithms are going on inside.
+So, technically, it's a little bit complex, but it gives you an output which is more intuitive to use, in some sense.
+But I'm more excited that you can actually take it outside.
+Rather than getting your camera out of your pocket, you can just do the gesture of taking a photo, and it takes a photo for you.
+Thank you.
+And later I can find a wall, anywhere, and start browsing those photos or maybe, OK, I want to modify this photo a little bit and send it as an email to a friend.
+So, we are looking for an era where computing will actually merge with the physical world.
+And, of course, if you don't have any surface, you can start using your palm for simple operations.
+Here, I'm dialing a phone number just using my hand.
+The camera is actually not only understanding your hand movements, but, interestingly, is also able to understand what objects you are holding in your hand.
+For example, in this case, the book cover is matched with so many thousands, or maybe millions of books online, and checking out which book it is.
+Once it has that information, it finds out more reviews about that, or maybe New York Times has a sound overview on that, so you can actually hear, on a physical book, a review as sound.
+Video Famous talk at Harvard University -- This was Obama's visit last week to MIT.
+Video And particularly I want to thank two outstanding MIT -- Pranav Mistry So, I was seeing the live video of his talk, outside, on just a newspaper.
+Your newspaper will show you live weather information rather than having it updated.
+You have to check your computer in order to do that, right?
+When I'm going back, I can just use my boarding pass to check how much my flight has been delayed, because at that particular time, I'm not feeling like opening my iPhone, and checking out a particular icon.
+And I think this technology will not only change the way --  Yes.
+It will change the way we interact with people, also, not only the physical world.
+The fun part is, I'm going to the Boston metro, and playing a pong game inside the train on the ground, right?
+And I think the imagination is the only limit of what you can think of when this kind of technology merges with real life.
+But many of you argue, actually, that all of our work is not only about physical objects.
+We actually do lots of accounting and paper editing and all those kinds of things what about that?
+And many of you are excited about the next-generation tablet computers to come out in the market.
+So, rather than waiting for that, I actually made my own, just using a piece of paper.
+So, what I did here is remove the camera -- All the webcam cameras have a microphone inside the camera.
+I removed the microphone from that, and then just pinched that -- like I just made a clip out of the microphone -- and clipped that to a piece of paper, any paper that you found around.
+So now the sound of the touch is getting me when exactly I'm touching the paper.
+But the camera is actually tracking where my fingers are moving.
+You can of course watch movies.
+Video Good afternoon. My name is Russell, and I am a Wilderness Explorer in Tribe 54.
+PM And you can of course play games.
+Car engine Here, the camera is actually understanding how you're holding the paper and playing a car-racing game.
+Many of you already must have thought, OK, you can browse.
+Yeah. Of course you can browse to any websites or you can do all sorts of computing on a piece of paper wherever you need it.
+So, more interestingly, I'm interested in how we can take that in a more dynamic way.
+When I come back to my desk, I can just pinch that information back to my desktop so I can use my full-size computer.
+And why only computers? We can just play with papers.
+Paper world is interesting to play with.
+Here, I'm taking a part of a document, and putting over here a second part from a second place, and I'm actually modifying the information that I have over there.
+Yeah. And I say, OK, this looks nice, let me print it out, that thing.
+So I now have a print-out of that thing.
+So the workflow is more intuitive, the way we used to do it maybe 20 years back, rather than now switching between these two worlds.
+So, as a last thought, I think that integrating information to everyday objects will not only help us to get rid of the digital divide, the gap between these two worlds, but will also help us, in some way, to stay human, to be more connected to our physical world.
+And it will actually help us not end up being machines sitting in front of other machines.
+That's all. Thank you.
+Thank you.
+Chris Anderson So, Pranav, first of all, you're a genius.
+This is incredible, really.
+What are you doing with this? Is there a company being planned?
+Or is this research forever, or what?
+Pranav Mistry So, there are lots of companies, sponsor companies of Media Lab interested in taking this ahead in one or another way.
+Companies like mobile-phone operators want to take this in a different way than the NGOs in India, thinking, Why can we only have 'Sixth Sense'?
+We should have a 'Fifth Sense' for missing-sense people who cannot speak.
+This technology can be used for them to speak out in a different way maybe a speaker system.
+CA What are your own plans? Are you staying at MIT, or are you going to do something with this?
+PM I'm trying to make this more available to people so that anyone can develop their own SixthSense device, because the hardware is actually not that hard to manufacture or hard to make your own.
+We will provide all the open source software for them, maybe starting next month.
+CA Open source? Wow.
+CA Are you going to come back to India with some of this, at some point?
+PM Yeah. Yes, yes, of course.
+CA What are your plans? MIT? India?
+How are you going to split your time going forward?
+PM There is a lot of energy here. Lots of learning.
+All of this work that you have seen is all about my learning in India.
+And now, if you see, it's more about the cost-effectiveness this system costs you 300 compared to the 20,000 surface tables, or anything like that.
+Or maybe even the 2 mouse gesture system at that time was costing around 5,000?
+I showed that, at a conference, to President Abdul Kalam, at that time, and then he said, OK, we should use this in Bhabha Atomic Research Centre for some use of that.
+So I'm excited about how I can bring the technology to the masses rather than just keeping that technology in the lab environment.
+CA Based on the people we've seen at TED, I would say you're truly one of the two or three best inventors in the world right now.
+It's an honor to have you at TED.
+Thank you so much.
+That's fantastic.
+One day a one-eyed monkey came into the forest.
+Under a tree she saw a woman meditating furiously.
+The one-eyed monkey recognized the woman, a Sekhri.
+She was the wife of an even more famous Brahmin.
+To watch her better, the one-eyed monkey climbed onto the tree.
+Just then, with a loud bang, the heavens opened. Claps And the god Indra jumped into the clearing.
+Indra saw the woman, a Sekhri.
+The woman paid him no heed.
+So, Indra, attracted, threw her onto the floor, and proceeded to rape her.
+Then Indra disappeared. Clap! Clap! And the woman's husband, the Brahmin, appeared.
+He realized at once what had happened.
+So, he petitioned the higher gods so that he may have justice.
+So, the god Vishnu arrived.
+Are there any witnesses?
+Just a one-eyed monkey, said the Brahmin.
+Now, the one-eyed monkey really wanted for the woman, a Sekhri, to get justice, so she retold events exactly as they had happened.
+Vishnu gave his judgment.
+The god Indra has sinned, in that he has sinned against ... a Brahmin.
+May he be called to wash away his sins.
+So, Indra arrived, and performed the sacrifice of the horse.
+And so it transpired that a horse was killed, a god was made sin-free, a Brahmin's ego was appeased, a woman ... was ruined, and a one-eyed monkey was left ...
+very confused at what we humans call justice.
+In India there is a rape every three minutes.
+In India, only 25 percent of rapes come to a police station, and of these 25 percent that come to a police station, convictions are only in four percent of the cases.
+That's a lot of women who don't get justice.
+Look around you, look at your own countries.
+There is a certain pattern in who gets charged with crimes.
+If you're in Australia, it's mostly aboriginals who are in jail.
+If you're in India, it's either Muslims or Adivasis, our tribals, the Naxalites.
+If you're in the U.S., it's mostly the blacks.
+There is a trend here.
+And the Brahmins and the gods, like in my story, always get to tell their truth as The Truth.
+So, have we all become one-eyed -- two-eyed instead of one-eyed -- monkeys?
+Have we stopped seeing injustice?
+Good morning.
+You know, I have told this story close to 550 times, in audiences in 40 countries, to school students, to black-tie dinners at the Smithsonian, and so on and so forth, and every time it hits something.
+Now, if I were to go into the same crowd and say, I want to lecture you about justice and injustice, they would say, Thank you very much, we have other things to do.
+And that is the astonishing power of art.
+Art can go through where other things can't.
+You can't have barriers, because it breaks through your prejudices, breaks through everything that you have as your mask, that says, I am this, I am that, I am that.
+No. It breaks through those.
+And it reaches somewhere where other things don't.
+And in a world where attitudes are so difficult to change, we need a language that reaches through.
+Hitler knew it he used Wagner to make all the Nazis feel wonderful and Aryan.
+And Mr. Berlusconi knows it, as he sits atop this huge empire of media and television and so on and so forth.
+And all of the wonderful creative minds who are in all the advertising agencies, and who help corporate sell us things we absolutely don't require, they also know the power of the arts.
+For me it came very early.
+When I was a young child, my mother, who was a choreographer, came upon a phenomenon that worried her.
+It was a phenomenon where young brides were committing suicide in rural Gujarat, because they were being forced to bring more and more money for their in-laws' families.
+And she created a dance piece which then Prime Minister Nehru saw.
+He came to talk to her and said, What is this about?
+She told him and he set out the first inquiry into what today we call Dowry Dance.
+Imagine a dance piece for the first inquiry into something that even today kills thousands of women.
+Many years later, when I was working with the director Peter Brook in The Mahabharata playing this feisty feminine feminist called Draupadi, I had similar experiences.
+Big fat black mamas in the Bronx used to come and say, Hey girl, that's it!
+And then these trendy young things in the Sorbonne would say, Madame Draupadi, on n'est pas feministe, mais ça? Ça!
+And then aboriginal women in Africa would come and say, This is it!
+And I thought, This is what we need, as a language.
+We had somebody from public health. And Devdutt also mentioned public health.
+Well, millions of people around the world die of waterborne disease every year.
+And that's because there is no clean water to drink, or in countries like India, people don't know that they need to soap their hands before defecation.
+So, what do they do?
+They drink the water they know is dirty, they get cholera, they get diarrhea, they get jaundice and they die.
+And governments have not been able to provide clean water.
+They try and build it. They try and build pipelines it doesn't happen.
+And the MNCs give them machines that they cannot afford.
+So what do you do? Do you let them die?
+Well, somebody had a great idea.
+And it was a simple idea. It was an idea that could not profit anybody but would help health in every field.
+Most houses in Asia and India have a cotton garment.
+And it was discovered, and WHO endorses this, that a clean cotton garment folded eight times over, can reduce bacteria up to 80 percent from water sieved through.
+So, why aren't governments blaring this on television?
+Why isn't it on every poster across the third world?
+Because there is no profit in it.
+Because nobody can get a kickback.
+But it still needs to get to people.
+And here is one of the ways we get it to people.
+Video Woman Then get me one of those fancy water purifiers.
+Man You know how expensive those are.
+I have a solution that requires neither machine, nor wood, nor cooking gas.
+Woman What solution?
+Man Listen, go fetch that cotton sari you have.
+Boy Grand-dad, tell me the solution please.
+Man I will tell all of you. Just wait.
+Woman Here father. Man Is it clean? Woman Yes, of course.
+Man Then do as I tell you. Fold the sari into eight folds.
+Woman All right, father.
+Man And you, you count that she does it right. Boy All right, grand-dad. Man One, two, three, four folds we make.
+All the germs from the water we take.
+Chorus One, two, three, four folds we make.
+Five, six, seven, eight folds we make.
+Our drinking water safe we make.
+Woman Here, father, your eight-times folded cotton sari.
+Man So this is the cotton sari.
+And through this we will have clean water.
+I think it's safe to say that all of us here are deeply concerned about the escalating violence in our daily lives.
+While universities are trying to devise courses in conflict resolution, and governments are trying to stop skirmishes at borders, we are surrounded by violence, whether it's road rage, or whether it's domestic violence, whether it's a teacher beating up a student and killing her because she hasn't done her homework, it's everywhere.
+So, why are we not doing something to actually attend that problem on a day to day basis?
+What are we doing to try and make children and young people realize that violence is something that we indulge in, that we can stop, and that there are other ways of actually taking violence, taking anger, taking frustrations into different things that do not harm other people.
+Well, here is one such way.
+Video Laughs You are peaceful people.
+Your parents were peaceful people.
+Your grandparents were peaceful people.
+So much peace in one place?
+How could it be otherwise?
+Music But, what if ...
+Yes. What if ...
+One little gene in you has been trying to get through?
+From your beginnings in Africa, through each generation, may be passed on to you, in your creation. It's a secret urge, hiding deep in you.
+And if it's in you, then it's in me too. Oh, dear.
+It's what made you smack your baby brother, stamp on a cockroach, scratch your mother.
+It's the feeling that wells up from deep inside, when your husband comes home drunk and you wanna tan his hide.
+Want to kill that cyclist on the way to work, and string up your cousin 'cause she's such a jerk. Oh, dear.
+And as for outsiders, white, black or brown, tar and feather them, and whip them out of town.
+It's that little gene. It's small and it's mean.
+Too small for detection, it's your built-in protection.
+Adrenaline, kill. It'll give you the will.
+Yes, you'd better face it 'cause you can't displace it.
+You're V-I-O-L-E-N-T.
+Cause you're either a victim, or on top, like me.
+Goodbye, Abraham Lincoln.
+Goodbye, Mahatma Gandhi.
+Goodbye, Martin Luther King.
+Hello, gangs from this neighborhood killing gangs from that neighborhood.
+Hello governments of rich countries selling arms to governments of poor countries who can't even afford to give them food.
+Hello civilization. Hello, 21st century.
+Look what we've ...
+look what they've done.
+Mainstream art, cinema, has been used across the world to talk about social issues.
+A few years ago we had a film called Rang De Basanti, which suddenly spawned thousands of young people wanting to volunteer for social change.
+In Venezuela, one of the most popular soap operas has a heroine called Crystal.
+And when, onscreen, Crystal got breast cancer, 75,000 more young women went to have mammographies done.
+And of course, The Vagina Monologues we know about.
+And there are stand-up comics who are talking about racial issues, about ethnic issues.
+So, why is it, that if we think that we all agree that we need a better world, we need a more just world, why is it that we are not using the one language that has consistently showed us that we can break down barriers, that we can reach people?
+What I need to say to the planners of the world, the governments, the strategists is, You have treated the arts as the cherry on the cake.
+It needs to be the yeast.
+Because, any future planning, if 2048 is when we want to get there, unless the arts are put with the scientists, with the economists, with all those who prepare for the future, badly, we're not going to get there.
+And unless this is actually internalized, it won't happen.
+So, what is it that we require? What is it that we need?
+We need to break down our vision of what planners are, of what the correct way of a path is.
+And to say all these years of trying to make a better world, and we have failed.
+There are more people being raped. There are more wars.
+There are more people dying of simple things.
+So, something has got to give. And that is what I want.
+Can I have my last audio track please?
+Once there was a princess who whistled beautifully.
+Whistling Her father the king said, Don't whistle.
+Her mother the queen said, Hai, don't whistle.
+But the princess continued whistling.
+Whistling The years went by and the princess grew up into a beautiful young woman, who whistled even more beautifully.
+Whistling Her father the king said, Who will marry a whistling princess?
+Her mother the queen said, Who will marry a whistling princess?
+But the king had an idea.
+He announced a Swayamvara.
+He invited all the princes to come and defeat his daughter at whistling.
+Whoever defeats my daughter shall have half my kingdom and her hand in marriage!
+Soon the palace filled with princes whistling.
+Whistling Some whistled badly.
+Some whistled well.
+But nobody could defeat the princess.
+Now what shall we do? said the king.
+Now what shall we do? said the queen.
+But the princess said, Father, Mother, don't worry.
+I have an idea. I am going to go to each of these young men and I am going to ask them if they defeated correctly.
+And if somebody answers, that shall be my wish.
+So she went up to each and said, Do you accept that I have defeated you?
+And they said, Me? Defeated by a woman?
+No way, that's impossible! No no no no no! That's not possible.
+Till finally one prince said, Princess, I accept, you have defeated me.
+Uh-huh ... she said.
+Father, mother, this man shall be my wife.
+Whistling Thank you.
+
+This is really a two-hour presentation I give to high school students, cut down to three minutes.
+And it all started one day on a plane, on my way to TED, seven years ago.
+And in the seat next to me was a high school student, a teenager, and she came from a really poor family.
+And she wanted to make something of her life, and she asked me a simple little question.
+She said, What leads to success?
+And I felt really badly, because I couldn't give her a good answer.
+So I get off the plane, and I come to TED.
+And I think, jeez, I'm in the middle of a room of successful people!
+So why don't I ask them what helped them succeed, and pass it on to kids?
+So here we are, seven years, 500 interviews later, and I'm going to tell you what really leads to success and makes TEDsters tick.
+And the first thing is passion.
+Freeman Thomas says, I'm driven by my passion.
+TEDsters do it for love they don't do it for money.
+Carol Coletta says, I would pay someone to do what I do.
+And the interesting thing is if you do it for love, the money comes anyway.
+Work! Rupert Murdoch said to me, It's all hard work.
+Nothing comes easily. But I have a lot of fun.
+Did he say fun? Rupert? Yes!
+TEDsters do have fun working. And they work hard.
+I figured, they're not workaholics. They're workafrolics.
+Good!
+Alex Garden says, To be successful, put your nose down in something and get damn good at it.
+There's no magic it's practice, practice, practice.
+And it's focus.
+Norman Jewison said to me, I think it all has to do with focusing yourself on one thing.
+And push!
+David Gallo says, Push yourself.
+Physically, mentally, you've got to push, push, push.
+You've got to push through shyness and self-doubt.
+Goldie Hawn says, I always had self-doubts.
+I wasn't good enough I wasn't smart enough.
+I didn't think I'd make it.
+Now it's not always easy to push yourself, and that's why they invented mothers.
+Frank Gehry said to me, My mother pushed me.
+Serve!
+Sherwin Nuland says, It was a privilege to serve as a doctor.
+A lot of kids want to be millionaires.
+The first thing I say is OK, well you can't serve yourself you've got to serve others something of value.
+Because that's the way people really get rich.
+Ideas!
+TEDster Bill Gates says, I had an idea founding the first micro-computer software company.
+I'd say it was a pretty good idea.
+And there's no magic to creativity in coming up with ideas -- it's just doing some very simple things.
+And I give lots of evidence.
+Persist!
+Joe Kraus says, Persistence is the number one reason for our success.
+You've got to persist through failure. You've got to persist through crap!
+Which of course means Criticism, Rejection, Assholes and Pressure.
+So, the answer to this question is simple Pay 4,000 bucks and come to TED.
+Or failing that, do the eight things -- and trust me, these are the big eight things that lead to success.
+Thank you TEDsters for all your interviews!
+In 2008, Cyclone Nargis devastated Myanmar.
+Millions of people were in severe need of help.
+The U.N. wanted to rush people and supplies to the area.
+But there were no maps, no maps of roads, no maps showing hospitals, no way for help to reach the cyclone victims.
+When we look at a map of Los Angeles or London, it is hard to believe that as of 2005, only 15 percent of the world was mapped to a geo-codable level of detail.
+The U.N. ran headfirst into a problem that the majority of the world's populous faces not having detailed maps.
+But help was coming.
+At Google, 40 volunteers used a new software to map 120,000 kilometers of roads, 3,000 hospitals, logistics and relief points.
+And it took them four days.
+The new software they used? Google Mapmaker.
+Google Mapmaker is a technology that empowers each of us to map what we know locally.
+People have used this software to map everything from roads to rivers, from schools to local businesses, and video stores to the corner store.
+Maps matter.
+Nobel Prize nominee Hernando De Soto recognized that the key to economic liftoff for most developing countries is to tap the vast amounts of uncapitalized land.
+For example, a trillion dollars of real estate remains uncapitalized in India alone.
+In the last year alone, thousands of users in 170 countries have mapped millions of pieces of information, and created a map of a level of detail never thought viable.
+And this was made possible by the power of passionate users everywhere.
+Let's look at some of the maps being created by users right now.
+So, as we speak, people are mapping the world in these 170 countries.
+You can see Bridget in Africa who just mapped a road in Senegal.
+And, closer to home, Chalua, an N.G. road in Bangalore.
+This is the result of computational geometry, gesture recognition, and machine learning.
+This is a victory of thousands of users, in hundreds of cities, one user, one edit at a time.
+This is an invitation to the 70 percent of our unmapped planet.
+Welcome to the new world.
+So, imagine you're standing on a street anywhere in America and a Japanese man comes up to you and says, Excuse me, what is the name of this block?
+And you say, I'm sorry, well, this is Oak Street, that's Elm Street.
+This is 26th, that's 27th.
+He says, OK, but what is the name of that block?
+You say, Well, blocks don't have names.
+Streets have names blocks are just the unnamed spaces in between streets.
+He leaves, a little confused and disappointed.
+So, now imagine you're standing on a street, anywhere in Japan, you turn to a person next to you and say, Excuse me, what is the name of this street?
+They say, Oh, well that's Block 17 and this is Block 16.
+And you say, OK, but what is the name of this street?
+And they say, Well, streets don't have names.
+Blocks have names.
+Just look at Google Maps here. There's Block 14, 15, 16, 17, 18, 19.
+All of these blocks have names, and the streets are just the unnamed spaces in between the blocks.
+And you say then, OK, then how do you know your home address?
+He said, Well, easy, this is District Eight.
+There's Block 17, house number one.
+You say, OK, but walking around the neighborhood, I noticed that the house numbers don't go in order.
+He says, Of course they do. They go in the order in which they were built.
+The first house ever built on a block is house number one.
+The second house ever built is house number two.
+Third is house number three. It's easy. It's obvious.
+So, I love that sometimes we need to go to the opposite side of the world to realize assumptions we didn't even know we had, and realize that the opposite of them may also be true.
+So, for example, there are doctors in China who believe that it's their job to keep you healthy.
+So, any month you are healthy you pay them, and when you're sick you don't have to pay them because they failed at their job. They get rich when you're healthy, not sick.
+In most music, we think of the one as the downbeat, the beginning of the musical phrase one, two, three, four.
+But in West African music, the one is thought of as the end of the phrase, like the period at the end of a sentence.
+So, you can hear it not just in the phrasing, but the way they count off their music two, three, four, one.
+And this map is also accurate.
+There's a saying that whatever true thing you can say about India, the opposite is also true.
+So, let's never forget, whether at TED, or anywhere else, that whatever brilliant ideas you have or hear, that the opposite may also be true.
+Domo arigato gozaimashita.
+I'm going to talk today about energy and climate.
+And that might seem a bit surprising, because my full-time work at the foundation is mostly about vaccines and seeds, about the things that we need to invent and deliver to help the poorest two billion live better lives.
+But energy and climate are extremely important to these people in fact, more important than to anyone else on the planet.
+The climate getting worse means that many years, their crops won't grow there will be too much rain, not enough rain things will change in ways their fragile environment simply can't support.
+And that leads to starvation, it leads to uncertainty, it leads to unrest.
+So, the climate changes will be terrible for them.
+Also, the price of energy is very important to them.
+In fact, if you could pick just one thing to lower the price of to reduce poverty, by far you would pick energy.
+Now, the price of energy has come down over time.
+Really advanced civilization is based on advances in energy.
+The coal revolution fueled the Industrial Revolution, and, even in the 1900s, we've seen a very rapid decline in the price of electricity, and that's why we have refrigerators, air-conditioning we can make modern materials and do so many things.
+And so, we're in a wonderful situation with electricity in the rich world.
+But as we make it cheaper -- and let's say, let's go for making it twice as cheap -- we need to meet a new constraint, and that constraint has to do with CO2.
+CO2 is warming the planet, and the equation on CO2 is actually a very straightforward one.
+If you sum up the CO2 that gets emitted, that leads to a temperature increase, and that temperature increase leads to some very negative effects the effects on the weather perhaps worse, the indirect effects, in that the natural ecosystems can't adjust to these rapid changes, and so you get ecosystem collapses.
+Now, the exact amount of how you map from a certain increase of CO2 to what temperature will be, and where the positive feedbacks are -- there's some uncertainty there, but not very much.
+And there's certainly uncertainty about how bad those effects will be, but they will be extremely bad.
+I asked the top scientists on this several times Do we really have to get down to near zero?
+Can't we just cut it in half or a quarter?
+And the answer is, until we get near to zero, the temperature will continue to rise.
+And so that's a big challenge.
+It's very different than saying, We're a twelve-foot-high truck trying to get under a ten-foot bridge, and we can just sort of squeeze under.
+This is something that has to get to zero.
+Now, we put out a lot of carbon dioxide every year -- over 26 billion tons.
+For each American, it's about 20 tons.
+For people in poor countries, it's less than one ton.
+It's an average of about five tons for everyone on the planet.
+And somehow, we have to make changes that will bring that down to zero.
+It's been constantly going up.
+It's only various economic changes that have even flattened it at all, so we have to go from rapidly rising to falling, and falling all the way to zero.
+This equation has four factors, a little bit of multiplication.
+So you've got a thing on the left, CO2, that you want to get to zero, and that's going to be based on the number of people, the services each person is using on average, the energy, on average, for each service, and the CO2 being put out per unit of energy.
+So let's look at each one of these, and see how we can get this down to zero.
+Probably, one of these numbers is going to have to get pretty near to zero.
+That's back from high school algebra.
+But let's take a look.
+First, we've got population.
+The world today has 6.8 billion people.
+That's headed up to about nine billion.
+Now, if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by, perhaps, 10 or 15 percent.
+But there, we see an increase of about 1.3.
+The second factor is the services we use.
+This encompasses everything the food we eat, clothing, TV, heating.
+These are very good things.
+Getting rid of poverty means providing these services to almost everyone on the planet.
+And it's a great thing for this number to go up.
+In the rich world, perhaps the top one billion, we probably could cut back and use less, but every year, this number, on average, is going to go up, and so, overall, that will more than double the services delivered per person.
+Here we have a very basic service Do you have lighting in your house to be able to read your homework?
+And, in fact, these kids don't, so they're going out and reading their schoolwork under the street lamps.
+Now, efficiency, E, the energy for each service -- here, finally we have some good news.
+We have something that's not going up.
+Through various inventions and new ways of doing lighting, through different types of cars, different ways of building buildings -- there are a lot of services where you can bring the energy for that service down quite substantially.
+Some individual services even bring it down by 90 percent.
+There are other services, like how we make fertilizer, or how we do air transport, where the rooms for improvement are far, far less.
+And so overall, if we're optimistic, we may get a reduction of a factor of three to even, perhaps, a factor of six.
+But for these first three factors now, we've gone from 26 billion to, at best, maybe 13 billion tons, and that just won't cut it.
+So let's look at this fourth factor -- this is going to be a key one -- and this is the amount of CO2 put out per each unit of energy.
+So the question is Can you actually get that to zero?
+If you burn coal, no.
+If you burn natural gas, no.
+Almost every way we make electricity today, except for the emerging renewables and nuclear, puts out CO2.
+And so, what we're going to have to do at a global scale, is create a new system.
+So we need energy miracles.
+Now, when I use the term miracle, I don't mean something that's impossible.
+The microprocessor is a miracle.
+The personal computer is a miracle.
+The Internet and its services are a miracle.
+So the people here have participated in the creation of many miracles.
+Usually, we don't have a deadline where you have to get the miracle by a certain date.
+Usually, you just kind of stand by, and some come along, some don't.
+This is a case where we actually have to drive at full speed and get a miracle in a pretty tight timeline.
+Now, I thought, How could I really capture this?
+Is there some kind of natural illustration, some demonstration that would grab people's imagination here?
+I thought back to a year ago when I brought mosquitoes, and somehow people enjoyed that.
+It really got them involved in the idea of, you know, there are people who live with mosquitoes.
+With energy, all I could come up with is this.
+I decided that releasing fireflies would be my contribution to the environment here this year.
+So here we have some natural fireflies.
+I'm told they don't bite in fact, they might not even leave that jar.
+Now, there's all sorts of gimmicky solutions like that one, but they don't really add up to much.
+We need solutions, either one or several, that have unbelievable scale and unbelievable reliability.
+And although there's many directions that people are seeking, I really only see five that can achieve the big numbers.
+I've left out tide, geothermal, fusion, biofuels.
+Those may make some contribution, and if they can do better than I expect, so much the better.
+But my key point here is that we're going to have to work on each of these five, and we can't give up any of them because they look daunting, because they all have significant challenges.
+Let's look first at burning fossil fuels, either burning coal or burning natural gas.
+What you need to do there seems like it might be simple, but it's not.
+And that's to take all the CO2, after you've burned it, going out the flue, pressurize it, create a liquid, put it somewhere, and hope it stays there.
+Now, we have some pilot things that do this at the 60 to 80 percent level.
+But getting up to that full percentage -- that will be very tricky.
+And agreeing on where these CO2 quantities should be put will be hard, but the toughest one here is this long-term issue Who's going to be sure?
+Who's going to guarantee something that is literally billions of times larger than any type of waste you think of in terms of nuclear or other things?
+This is a lot of volume.
+So that's a tough one.
+Next would be nuclear.
+It also has three big problems cost, particularly in highly regulated countries, is high the issue of safety, really feeling good about nothing could go wrong, that, even though you have these human operators, the fuel doesn't get used for weapons.
+And then what do you do with the waste?
+Although it's not very large, there are a lot of concerns about that.
+People need to feel good about it.
+So three very tough problems that might be solvable, and so, should be worked on.
+The last three of the five, I've grouped together.
+These are what people often refer to as the renewable sources.
+And they actually -- although it's great they don't require fuel -- they have some disadvantages.
+One is that the density of energy gathered in these technologies is dramatically less than a power plant.
+This is energy farming, so you're talking about many square miles, thousands of times more area than you think of as a normal energy plant.
+Also, these are intermittent sources.
+The sun doesn't shine all day, it doesn't shine every day, and likewise, the wind doesn't blow all the time.
+And so, if you depend on these sources, you have to have some way of getting the energy during those time periods that it's not available.
+So we've got big cost challenges here.
+We have transmission challenges for example, say this energy source is outside your country, you not only need the technology, but you have to deal with the risk of the energy coming from elsewhere.
+And, finally, this storage problem.
+To dimensionalize this, I went through and looked at all the types of batteries made -- for cars, for computers, for phones, for flashlights, for everything -- and compared that to the amount of electrical energy the world uses.
+What I found is that all the batteries we make now could store less than 10 minutes of all the energy.
+And so, in fact, we need a big breakthrough here, something that's going to be a factor of 100 better than the approaches we have now.
+It's not impossible, but it's not a very easy thing.
+Now, this shows up when you try to get the intermittent source to be above, say, 20 to 30 percent of what you're using.
+If you're counting on it for 100 percent, you need an incredible miracle battery.
+Now, how are we going to go forward on this -- what's the right approach?
+Is it a Manhattan Project? What's the thing that can get us there?
+Well, we need lots of companies working on this -- hundreds.
+In each of these five paths, we need at least a hundred people.
+A lot of them, you'll look at and say, They're crazy.
+That's good.
+And, I think, here in the TED group, we have many people who are already pursuing this.
+Bill Gross has several companies, including one called eSolar that has some great solar thermal technologies.
+Vinod Khosla is investing in dozens of companies that are doing great things and have interesting possibilities, and I'm trying to help back that.
+Nathan Myhrvold and I actually are backing a company that, perhaps surprisingly, is actually taking the nuclear approach.
+There are some innovations in nuclear modular, liquid.
+Innovation really stopped in this industry quite some ago, so the idea that there's some good ideas laying around is not all that surprising.
+The idea of TerraPower is that, instead of burning a part of uranium -- the one percent, which is the U235 -- we decided, Let's burn the 99 percent, the U238.
+It is kind of a crazy idea.
+In fact, people had talked about it for a long time, but they could never simulate properly whether it would work or not, and so it's through the advent of modern supercomputers that now you can simulate and see that, yes, with the right materials approach, this looks like it would work.
+And because you're burning that 99 percent, you have greatly improved cost profile.
+You actually burn up the waste, and you can actually use as fuel all the leftover waste from today's reactors.
+So instead of worrying about them, you just take that, it's a great thing.
+It breeds this uranium as it goes along, so it's kind of like a candle.
+You see it's a log there, often referred to as a traveling wave reactor.
+In terms of fuel, this really solves the problem.
+I've got a picture here of a place in Kentucky.
+This is the leftover, the 99 percent, where they've taken out the part they burn now, so it's called depleted uranium.
+That would power the US for hundreds of years.
+And simply by filtering seawater in an inexpensive process, you'd have enough fuel for the entire lifetime of the rest of the planet.
+So, you know, it's got lots of challenges ahead, but it is an example of the many hundreds and hundreds of ideas that we need to move forward.
+So let's think How should we measure ourselves?
+What should our report card look like?
+Well, let's go out to where we really need to get, and then look at the intermediate.
+For 2050, you've heard many people talk about this 80 percent reduction.
+That really is very important, that we get there.
+And that 20 percent will be used up by things going on in poor countries -- still some agriculture hopefully, we will have cleaned up forestry, cement.
+So, to get to that 80 percent, the developed countries, including countries like China, will have had to switch their electricity generation altogether.
+The other grade is Are we deploying this zero-emission technology, have we deployed it in all the developed countries and are in the process of getting it elsewhere?
+That's super important.
+That's a key element of making that report card.
+Backing up from there, what should the 2020 report card look like?
+Well, again, it should have the two elements.
+We should go through these efficiency measures to start getting reductions The less we emit, the less that sum will be of CO2, and therefore, the less the temperature.
+But in some ways, the grade we get there, doing things that don't get us all the way to the big reductions, is only equally, or maybe even slightly less, important than the other, which is the piece of innovation on these breakthroughs.
+These breakthroughs, we need to move those at full speed, and we can measure that in terms of companies, pilot projects, regulatory things that have been changed.
+There's a lot of great books that have been written about this.
+The Al Gore book, Our Choice, and the David MacKay book, Sustainable Energy Without the Hot Air.
+They really go through it and create a framework that this can be discussed broadly, because we need broad backing for this.
+There's a lot that has to come together.
+So this is a wish.
+It's a very concrete wish that we invent this technology.
+If you gave me only one wish for the next 50 years -- I could pick who's president, I could pick a vaccine, which is something I love, or I could pick that this thing that's half the cost with no CO2 gets invented -- this is the wish I would pick.
+This is the one with the greatest impact.
+If we don't get this wish, the division between the people who think short term and long term will be terrible, between the US and China, between poor countries and rich, and most of all, the lives of those two billion will be far worse.
+So what do we have to do?
+What am I appealing to you to step forward and drive?
+We need to go for more research funding.
+When countries get together in places like Copenhagen, they shouldn't just discuss the CO2.
+They should discuss this innovation agenda.
+You'd be stunned at the ridiculously low levels of spending on these innovative approaches.
+We do need the market incentives -- CO2 tax, cap and trade -- something that gets that price signal out there.
+We need to get the message out.
+We need to have this dialogue be a more rational, more understandable dialogue, including the steps that the government takes.
+This is an important wish, but it is one I think we can achieve.
+Applause ends Thank you.
+Chris Anderson Thank you. Thank you.
+CA Thank you.
+I mean, first of all, can you give a sense of what scale of investment this is?
+Bill Gates To actually do the software, buy the supercomputer, hire all the great scientists, which we've done, that's only tens of millions.
+And even once we test our materials out in a Russian reactor to make sure our materials work properly, then you'll only be up in the hundreds of millions.
+The tough thing is building the pilot reactor -- finding the several billion, finding the regulator, the location that will actually build the first one of these.
+Once you get the first one built, if it works as advertised, then it's just clear as day, because the economics, the energy density, are so different than nuclear as we know it.
+CA So to understand it right, this involves building deep into the ground, almost like a vertical column of nuclear fuel, of this spent uranium, and then the process starts at the top and kind of works down?
+BG That's right.
+Today, you're always refueling the reactor, so you have lots of people and lots of controls that can go wrong, where you're opening it up and moving things in and out -- that's not good.
+So if you have very --  very cheap fuel that you can put 60 years in -- just think of it as a log -- put it down and not have those same complexities.
+And it just sits there and burns for the 60 years, and then it's done.
+CA It's a nuclear power plant that is its own waste disposal solution.
+BG Yeah what happens with the waste, you can let it sit there -- there's a lot less waste under this approach -- then you can actually take that and put it into another one and burn that.
+And we start out, actually, by taking the waste that exists today that's sitting in these cooling pools or dry-casking by reactors -- that's our fuel to begin with.
+So the thing that's been a problem from those reactors is actually what gets fed into ours, and you're reducing the volume of the waste quite dramatically as you're going through this process.
+CA You're talking to different people around the world about the possibilities.
+Where is there most interest in actually doing something with this?
+BG Well, we haven't picked a particular place, and there's all these interesting disclosure rules about anything that's called nuclear.
+So we've got a lot of interest.
+People from the company have been in Russia, India, China.
+I've been back seeing the secretary of energy here, talking about how this fits into the energy agenda.
+So I'm optimistic.
+The French and Japanese have done some work.
+This is a variant on something that has been done.
+It's an important advance, but it's like a fast reactor, and a lot of countries have built them, so anybody who's done a fast reactor is a candidate to be where the first one gets built.
+CA So, in your mind, timescale and likelihood of actually taking something like this live?
+BG Well, we need -- for one of these high-scale, electro-generation things that's very cheap, we have 20 years to invent and then 20 years to deploy.
+That's sort of the deadline that the environmental models have shown us that we have to meet.
+And TerraPower -- if things go well, which is wishing for a lot -- could easily meet that.
+And there are, fortunately now, dozens of companies -- we need it to be hundreds -- who, likewise, if their science goes well, if the funding for their pilot plants goes well, that they can compete for this.
+And it's best if multiple succeed, because then you could use a mix of these things.
+We certainly need one to succeed.
+CA In terms of big-scale possible game changers, is this the biggest that you're aware of out there?
+BG An energy breakthrough is the most important thing.
+It would have been, even without the environmental constraint, but the environmental constraint just makes it so much greater.
+In the nuclear space, there are other innovators.
+You know, we don't know their work as well as we know this one, but the modular people, that's a different approach.
+There's a liquid-type reactor, which seems a little hard, but maybe they say that about us.
+And so, there are different ones, but the beauty of this is a molecule of uranium has a million times as much energy as a molecule of, say, coal.
+And so, if you can deal with the negatives, which are essentially the radiation, the footprint and cost, the potential, in terms of effect on land and various things, is almost in a class of its own.
+CA If this doesn't work, then what?
+Do we have to start taking emergency measures to try and keep the temperature of the earth stable?
+BG If you get into that situation, it's like if you've been overeating, and you're about to have a heart attack.
+Then where do you go?
+There is a line of research on what's called geoengineering, which are various techniques that would delay the heating to buy us 20 or 30 years to get our act together.
+Now, that's just an insurance policy you hope you don't need to do that.
+Some people say you shouldn't even work on the insurance policy because it might make you lazy, that you'll keep eating because you know heart surgery will be there to save you.
+I'm not sure that's wise, given the importance of the problem, but there's now the geoengineering discussion about Should that be in the back pocket in case things happen faster, or this innovation goes a lot slower than we expect?
+CA Climate skeptics If you had a sentence or two to say to them, how might you persuade them that they're wrong?
+BG Well, unfortunately, the skeptics come in different camps.
+The ones who make scientific arguments are very few.
+Are they saying there's negative feedback effects that have to do with clouds that offset things?
+There are very, very few things that they can even say there's a chance in a million of those things.
+The main problem we have here -- it's kind of like with AIDS you make the mistake now, and you pay for it a lot later.
+And so, when you have all sorts of urgent problems, the idea of taking pain now that has to do with a gain later, and a somewhat uncertain pain thing.
+In fact, the IPCC report -- that's not necessarily the worst case, and there are people in the rich world who look at IPCC and say, OK, that isn't that big of a deal.
+The fact is it's that uncertain part that should move us towards this.
+But my dream here is that, if you can make it economic, and meet the CO2 constraints, then the skeptics say, OK, I don't care that it doesn't put out CO2, I kind of wish it did put out CO2.
+But I guess I'll accept it, because it's cheaper than what's come before.
+CA So that would be your response to the Bjørn Lomborg argument, basically if you spend all this energy trying to solve the CO2 problem, it's going to take away all your other goals of trying to rid the world of poverty and malaria and so forth, it's a stupid waste of the Earth's resources to put money towards that when there are better things we can do.
+BG Well, the actual spending on the RampampD piece -- say the US should spend 10 billion a year more than it is right now -- it's not that dramatic.
+It shouldn't take away from other things.
+The thing you get into big money on, and reasonable people can disagree, is when you have something that's non-economic and you're trying to fund that -- that, to me, mostly is a waste.
+Unless you're very close, and you're just funding the learning curve and it's going to get very cheap, I believe we should try more things that have a potential to be far less expensive.
+If the trade-off you get into is, Let's make energy super expensive, then the rich can afford that.
+I mean, all of us here could pay five times as much for our energy and not change our lifestyle.
+The disaster is for that two billion.
+And even Lomborg has changed.
+His shtick now is, Why isn't the RampampD getting more discussed?
+He's still, because of his earlier stuff, still associated with the skeptic camp, but he's realized that's a pretty lonely camp, and so, he's making the RampampD point.
+And so there is a thread of something that I think is appropriate.
+The RampampD piece -- it's crazy how little it's funded.
+CA Well, Bill, I suspect I speak on behalf of most people here to say I really hope your wish comes true.
+Thank you so much.
+I'd like to share with you a discovery that I made a few months ago while writing an article for Italian Wired.
+I always keep my thesaurus handy whenever I'm writing anything, but I'd already finished editing the piece, and I realized that I had never once in my life looked up the word disabled to see what I'd find.
+Let me read you the entry.
+Disabled, adjective crippled, helpless, useless, wrecked, stalled, maimed, wounded, mangled, lame, mutilated, run-down, worn-out, weakened, impotent, castrated, paralyzed, handicapped, senile, decrepit, laid-up, done-up, done-for, done-in cracked-up, counted-out see also hurt, useless and weak.
+Antonyms, healthy, strong, capable.
+I was reading this list out loud to a friend and at first was laughing, it was so ludicrous, but I'd just gotten past mangled, and my voice broke, and I had to stop and collect myself from the emotional shock and impact that the assault from these words unleashed.
+You know, of course, this is my raggedy old thesaurus so I'm thinking this must be an ancient print date, right?
+But, in fact, the print date was the early 1980s, when I would have been starting primary school and forming an understanding of myself outside the family unit and as related to the other kids and the world around me.
+And, needless to say, thank God I wasn't using a thesaurus back then.
+I mean, from this entry, it would seem that I was born into a world that perceived someone like me to have nothing positive whatsoever going for them, when in fact, today I'm celebrated for the opportunities and adventures my life has procured.
+So, I immediately went to look up the 2009 online edition, expecting to find a revision worth noting.
+Here's the updated version of this entry.
+Unfortunately, it's not much better.
+I find the last two words under Near Antonyms, particularly unsettling whole and wholesome.
+So, it's not just about the words.
+It's what we believe about people when we name them with these words.
+It's about the values behind the words, and how we construct those values.
+Our language affects our thinking and how we view the world and how we view other people.
+In fact, many ancient societies, including the Greeks and the Romans, believed that to utter a curse verbally was so powerful, because to say the thing out loud brought it into existence.
+So, what reality do we want to call into existence a person who is limited, or a person who's empowered?
+By casually doing something as simple as naming a person, a child, we might be putting lids and casting shadows on their power.
+Wouldn't we want to open doors for them instead?
+One such person who opened doors for me was my childhood doctor at the A.I. duPont Institute in Wilmington, Delaware.
+His name was Dr. Pizzutillo, an Italian American, whose name, apparently, was too difficult for most Americans to pronounce, so he went by Dr. P.
+And Dr. P always wore really colorful bow ties and had the very perfect disposition to work with children.
+I loved almost everything about my time spent at this hospital, with the exception of my physical therapy sessions.
+I had to do what seemed like innumerable repetitions of exercises with these thick, elastic bands -- different colors, you know -- to help build up my leg muscles, and I hated these bands more than anything -- I hated them, had names for them. I hated them.
+And, you know, I was already bargaining, as a five year-old child, with Dr. P to try to get out of doing these exercises, unsuccessfully, of course.
+And, one day, he came in to my session -- exhaustive and unforgiving, these sessions -- and he said to me, Wow. Aimee, you are such a strong and powerful little girl, I think you're going to break one of those bands.
+When you do break it, I'm going to give you a hundred bucks.
+Now, of course, this was a simple ploy on Dr. P's part to get me to do the exercises I didn't want to do before the prospect of being the richest five-year-old in the second floor ward, but what he effectively did for me was reshape an awful daily occurrence into a new and promising experience for me.
+And I have to wonder today to what extent his vision and his declaration of me as a strong and powerful little girl shaped my own view of myself as an inherently strong, powerful and athletic person well into the future.
+This is an example of how adults in positions of power can ignite the power of a child.
+But, in the previous instances of those thesaurus entries, our language isn't allowing us to evolve into the reality that we would all want, the possibility of an individual to see themselves as capable.
+Our language hasn't caught up with the changes in our society, many of which have been brought about by technology.
+Certainly, from a medical standpoint, my legs, laser surgery for vision impairment, titanium knees and hip replacements for aging bodies that are allowing people to more fully engage with their abilities, and move beyond the limits that nature has imposed on them -- not to mention social networking platforms allow people to self-identify, to claim their own descriptions of themselves, so they can go align with global groups of their own choosing.
+So, perhaps technology is revealing more clearly to us now what has always been a truth that everyone has something rare and powerful to offer our society, and that the human ability to adapt is our greatest asset.
+The human ability to adapt, it's an interesting thing, because people have continually wanted to talk to me about overcoming adversity, and I'm going to make an admission This phrase never sat right with me, and I always felt uneasy trying to answer people's questions about it, and I think I'm starting to figure out why.
+Implicit in this phrase of overcoming adversity is the idea that success, or happiness, is about emerging on the other side of a challenging experience unscathed or unmarked by the experience, as if my successes in life have come about from an ability to sidestep or circumnavigate the presumed pitfalls of a life with prosthetics, or what other people perceive as my disability.
+But, in fact, we are changed. We are marked, of course, by a challenge, whether physically, emotionally or both.
+And I'm going to suggest that this is a good thing.
+Adversity isn't an obstacle that we need to get around in order to resume living our life.
+It's part of our life.
+And I tend to think of it like my shadow.
+Sometimes I see a lot of it, sometimes there's very little, but it's always with me.
+And, certainly, I'm not trying to diminish the impact, the weight, of a person's struggle.
+There is adversity and challenge in life, and it's all very real and relative to every single person, but the question isn't whether or not you're going to meet adversity, but how you're going to meet it.
+So, our responsibility is not simply shielding those we care for from adversity, but preparing them to meet it well.
+And we do a disservice to our kids when we make them feel that they're not equipped to adapt.
+There's an important difference and distinction between the objective medical fact of my being an amputee and the subjective societal opinion of whether or not I'm disabled.
+And, truthfully, the only real and consistent disability I've had to confront is the world ever thinking that I could be described by those definitions.
+In our desire to protect those we care about by giving them the cold, hard truth about their medical prognosis, or, indeed, a prognosis on the expected quality of their life, we have to make sure that we don't put the first brick in a wall that will actually disable someone.
+Perhaps the existing model of only looking at what is broken in you and how do we fix it, serves to be more disabling to the individual than the pathology itself.
+By not treating the wholeness of a person, by not acknowledging their potency, we are creating another ill on top of whatever natural struggle they might have.
+We are effectively grading someone's worth to our community.
+So we need to see through the pathology and into the range of human capability.
+And, most importantly, there's a partnership between those perceived deficiencies and our greatest creative ability.
+So it's not about devaluing, or negating, these more trying times as something we want to avoid or sweep under the rug, but instead to find those opportunities wrapped in the adversity.
+So maybe the idea I want to put out there is not so much overcoming adversity as it is opening ourselves up to it, embracing it, grappling with it, to use a wrestling term, maybe even dancing with it.
+And, perhaps, if we see adversity as natural, consistent and useful, we're less burdened by the presence of it.
+This year we celebrate the 200th birthday of Charles Darwin, and it was 150 years ago, when writing about evolution, that Darwin illustrated, I think, a truth about the human character.
+To paraphrase It's not the strongest of the species that survives, nor is it the most intelligent that survives it is the one that is most adaptable to change.
+Conflict is the genesis of creation.
+From Darwin's work, amongst others, we can recognize that the human ability to survive and flourish is driven by the struggle of the human spirit through conflict into transformation.
+So, again, transformation, adaptation, is our greatest human skill.
+And, perhaps, until we're tested, we don't know what we're made of.
+Maybe that's what adversity gives us a sense of self, a sense of our own power.
+So, we can give ourselves a gift.
+We can re-imagine adversity as something more than just tough times.
+Maybe we can see it as change.
+Adversity is just change that we haven't adapted ourselves to yet.
+I think the greatest adversity that we've created for ourselves is this idea of normalcy.
+Now, who's normal?
+There's no normal.
+There's common, there's typical. There's no normal, and would you want to meet that poor, beige person if they existed?
+I don't think so.
+If we can change this paradigm from one of achieving normalcy to one of possibility -- or potency, to be even a little bit more dangerous -- we can release the power of so many more children, and invite them to engage their rare and valuable abilities with the community.
+Anthropologists tell us that the one thing we as humans have always required of our community members is to be of use, to be able to contribute.
+There's evidence that Neanderthals, 60,000 years ago, carried their elderly and those with serious physical injury, and perhaps it's because the life experience of survival of these people proved of value to the community.
+They didn't view these people as broken and useless they were seen as rare and valuable.
+A few years ago, I was in a food market in the town where I grew up in that red zone in northeastern Pennsylvania, and I was standing over a bushel of tomatoes.
+It was summertime I had shorts on.
+I hear this guy, his voice behind me say, Well, if it isn't Aimee Mullins.
+And I turn around, and it's this older man. I have no idea who he is.
+And I said, I'm sorry, sir, have we met? I don't remember meeting you.
+He said, Well, you wouldn't remember meeting me.
+I mean, when we met I was delivering you from your mother's womb.
+Oh, that guy.
+And, but of course, actually, it did click.
+This man was Dr. Kean, a man that I had only known about through my mother's stories of that day, because, of course, typical fashion, I arrived late for my birthday by two weeks.
+And so my mother's prenatal physician had gone on vacation, so the man who delivered me was a complete stranger to my parents.
+And, because I was born without the fibula bones, and had feet turned in, and a few toes in this foot and a few toes in that, he had to be the bearer -- this stranger had to be the bearer of bad news.
+He said to me, I had to give this prognosis to your parents that you would never walk, and you would never have the kind of mobility that other kids have or any kind of life of independence, and you've been making liar out of me ever since.
+The extraordinary thing is that he said he had saved newspaper clippings throughout my whole childhood, whether winning a second grade spelling bee, marching with the Girl Scouts, you know, the Halloween parade, winning my college scholarship, or any of my sports victories, and he was using it, and integrating it into teaching resident students, med students from Hahnemann Medical School and Hershey Medical School.
+And he called this part of the course the X Factor, the potential of the human will.
+No prognosis can account for how powerful this could be as a determinant in the quality of someone's life.
+And Dr. Kean went on to tell me, he said, In my experience, unless repeatedly told otherwise, and even if given a modicum of support, if left to their own devices, a child will achieve.
+See, Dr. Kean made that shift in thinking.
+He understood that there's a difference between the medical condition and what someone might do with it.
+And there's been a shift in my thinking over time, in that, if you had asked me at 15 years old, if I would have traded prosthetics for flesh-and-bone legs, I wouldn't have hesitated for a second.
+I aspired to that kind of normalcy back then.
+But if you ask me today, I'm not so sure.
+And it's because of the experiences I've had with them, not in spite of the experiences I've had with them.
+And perhaps this shift in me has happened because I've been exposed to more people who have opened doors for me than those who have put lids and cast shadows on me.
+See, all you really need is one person to show you the epiphany of your own power, and you're off.
+If you can hand somebody the key to their own power -- the human spirit is so receptive -- if you can do that and open a door for someone at a crucial moment, you are educating them in the best sense.
+You're teaching them to open doors for themselves.
+In fact, the exact meaning of the word educate comes from the root word educe.
+It means to bring forth what is within, to bring out potential.
+So again, which potential do we want to bring out?
+There was a case study done in 1960s Britain, when they were moving from grammar schools to comprehensive schools.
+It's called the streaming trials. We call it tracking here in the States.
+It's separating students from A, B, C, D and so on.
+And the A students get the tougher curriculum, the best teachers, etc.
+Well, they took, over a three-month period, D-level students, gave them A's, told them they were A's, told them they were bright, and at the end of this three-month period, they were performing at A-level.
+And, of course, the heartbreaking, flip side of this study, is that they took the A students and told them they were D's.
+And that's what happened at the end of that three-month period.
+Those who were still around in school, besides the people who had dropped out.
+A crucial part of this case study was that the teachers were duped too.
+The teachers didn't know a switch had been made.
+They were simply told, These are the 'A-students,' these are the 'D-students.' And that's how they went about teaching them and treating them.
+So, I think that the only true disability is a crushed spirit, a spirit that's been crushed doesn't have hope, it doesn't see beauty, it no longer has our natural, childlike curiosity and our innate ability to imagine.
+If instead, we can bolster a human spirit to keep hope, to see beauty in themselves and others, to be curious and imaginative, then we are truly using our power well.
+When a spirit has those qualities, we are able to create new realities and new ways of being.
+I'd like to leave you with a poem by a fourteenth-century Persian poet named Hafiz that my friend, Jacques Dembois told me about, and the poem is called The God Who Only Knows Four Words Every child has known God, not the God of names, not the God of don'ts, but the God who only knows four words and keeps repeating them, saying, 'Come dance with me.
+Come, dance with me. Come, dance with me.' Thank you.
+Ladies and gentlemen, at TED we talk a lot about leadership and how to make a movement.
+So let's watch a movement happen, start to finish, in under three minutes and dissect some lessons from it.
+First, of course you know, a leader needs the guts to stand out and be ridiculed.
+What he's doing is so easy to follow.
+Here's his first follower with a crucial role he's going to show everyone else how to follow.
+Now, notice that the leader embraces him as an equal.
+Now it's not about the leader anymore it's about them, plural.
+Now, there he is calling to his friends.
+Now, if you notice that the first follower is actually an underestimated form of leadership in itself.
+It takes guts to stand out like that.
+The first follower is what transforms a lone nut into a leader.
+And here comes a second follower.
+Now it's not a lone nut, it's not two nuts -- three is a crowd, and a crowd is news.
+So a movement must be public.
+It's important to show not just the leader, but the followers, because you find that new followers emulate the followers, not the leader.
+Now, here come two more people, and immediately after, three more people.
+Now we've got momentum. This is the tipping point.
+Now we've got a movement.
+So, notice that, as more people join in, it's less risky.
+So those that were sitting on the fence before now have no reason not to.
+They won't stand out, they won't be ridiculed, but they will be part of the in-crowd if they hurry.
+So, over the next minute, you'll see all of those that prefer to stick with the crowd because eventually they would be ridiculed for not joining in.
+And that's how you make a movement.
+But let's recap some lessons from this.
+So first, if you are the type, like the shirtless dancing guy that is standing alone, remember the importance of nurturing your first few followers as equals so it's clearly about the movement, not you.
+Okay, but we might have missed the real lesson here.
+The biggest lesson, if you noticed -- did you catch it? -- is that leadership is over-glorified.
+Yes, it was the shirtless guy who was first, and he'll get all the credit, but it was really the first follower that transformed the lone nut into a leader.
+So, as we're told that we should all be leaders, that would be really ineffective.
+If you really care about starting a movement, have the courage to follow and show others how to follow.
+And when you find a lone nut doing something great, have the guts to be the first one to stand up and join in.
+And what a perfect place to do that, at TED.
+Now, I want to start with a question When was the last time you were called childish?
+For kids like me, being called childish can be a frequent occurrence.
+Every time we make irrational demands, exhibit irresponsible behavior, or display any other signs of being normal American citizens, we are called childish.
+Which really bothers me.
+After all, take a look at these events Imperialism and colonization, world wars, George W. Bush.
+Ask yourself, who's responsible? Adults.
+Now, what have kids done?
+Well, Anne Frank touched millions with her powerful account of the Holocaust.
+Ruby Bridges helped to end segregation in the United States.
+And, most recently, Charlie Simpson helped to raise 120,000 pounds for Haiti, on his little bike.
+So as you can see evidenced by such examples, age has absolutely nothing to do with it.
+The traits the word childish addresses are seen so often in adults, that we should abolish this age-discriminatory word, when it comes to criticizing behavior associated with irresponsibility and irrational thinking.
+Then again, who's to say that certain types of irrational thinking aren't exactly what the world needs?
+Maybe you've had grand plans before, but stopped yourself, thinking, That's impossible, or That costs too much, or That won't benefit me.
+For better or worse, we kids aren't hampered as much when it comes to thinking about reasons why not to do things.
+Kids can be full of inspiring aspirations and hopeful thinking, like my wish that no one went hungry, or that everything were free, a kind of utopia.
+How many of you still dream like that, and believe in the possibilities?
+Sometimes a knowledge of history and the past failures of Utopian ideals can be a burden, because you know that if everything were free, then the food stocks would become depleted and scarce and lead to chaos.
+On the other hand, we kids still dream about perfection.
+And that's a good thing, because in order to make anything a reality, you have to dream about it first.
+In many ways, our audacity to imagine helps push the boundaries of possibility.
+For instance, the Museum of Glass in Tacoma, Washington, my home state -- yoohoo, Washington!
+has a program called Kids Design Glass, and kids draw their own ideas for glass art.
+The resident artist said they got some of their best ideas from the program, because kids don't think about the limitations of how hard it can be to blow glass into certain shapes, they just think of good ideas.
+Now, when you think of glass, you might think of colorful Chihuly designs, or maybe Italian vases, but kids challenge glass artists to go beyond that, into the realm of brokenhearted snakes and bacon boys, who you can see has meat vision.
+Now, our inherent wisdom doesn't have to be insider's knowledge.
+Kids already do a lot of learning from adults, and we have a lot to share.
+I think that adults should start learning from kids.
+Now, I do most of my speaking in front of an education crowd -- teachers and students, and I like this analogy It shouldn't be a teacher at the head of the class, telling students, Do this, do that.
+The students should teach their teachers.
+Learning between grown-ups and kids should be reciprocal.
+The reality, unfortunately, is a little different, and it has a lot to do with trust, or a lack of it.
+Now, if you don't trust someone, you place restrictions on them, right?
+If I doubt my older sister's ability to pay back the 10 percent interest I established on her last loan, I'm going to withhold her ability to get more money from me, until she pays it back.
+True story, by the way.
+Now, adults seem to have a prevalently restrictive attitude towards kids, from every Don't do that, don't do this in the school handbook, to restrictions on school Internet use.
+As history points out, regimes become oppressive when they're fearful about keeping control.
+And although adults may not be quite at the level of totalitarian regimes, kids have no or very little say in making the rules, when really, the attitude should be reciprocal, meaning that the adult population should learn and take into account the wishes of the younger population.
+Now, what's even worse than restriction, is that adults often underestimate kids' abilities.
+We love challenges, but when expectations are low, trust me, we will sink to them.
+My own parents had anything but low expectations for me and my sister.
+Okay, so they didn't tell us to become doctors or lawyers or anything like that, but my dad did read to us about Aristotle and pioneer germ-fighters, when lots of other kids were hearing The Wheels on the Bus Go Round and Round.
+Well, we heard that one too, but Pioneer Germ Fighters totally rules.
+I loved to write from the age of four, and when I was six, my mom bought me my own laptop equipped with Microsoft Word.
+Thank you, Bill Gates, and thank you, Ma.
+I wrote over 300 short stories on that little laptop, and I wanted to get published.
+Instead of just scoffing at this heresy that a kid wanted to get published, or saying wait until you're older, my parents were really supportive.
+Many publishers were not quite so encouraging.
+One large children's publisher ironically said that they didn't work with children.
+Children's publisher not working with children?
+I don't know, you're kind of alienating a large client there.
+One publisher, Action Publishing, was willing to take that leap and trust me, and to listen to what I had to say.
+They published my first book, Flying Fingers, you see it here.
+And from there on, it's gone to speaking at hundreds of schools, keynoting to thousands of educators, and finally, today, speaking to you.
+I appreciate your attention today, because to show that you truly care, you listen.
+But there's a problem with this rosy picture of kids being so much better than adults.
+Kids grow up and become adults just like you.
+Or just like you? Really?
+The goal is not to turn kids into your kind of adult, but rather, better adults than you have been, which may be a little challenging, considering your guys' credentials.
+But the way progress happens, is because new generations and new eras grow and develop and become better than the previous ones.
+It's the reason we're not in the Dark Ages anymore.
+No matter your position or place in life, it is imperative to create opportunities for children, so that we can grow up to blow you away.
+Adults and fellow TEDsters, you need to listen and learn from kids, and trust us and expect more from us.
+You must lend an ear today, because we are the leaders of tomorrow, which means we're going to take care of you when you're old and senile.
+No, just kidding.
+No, really, we are going to be the next generation, the ones who will bring this world forward.
+And in case you don't think that this really has meaning for you, remember that cloning is possible, and that involves going through childhood again, in which case you'll want to be heard, just like my generation.
+Now, the world needs opportunities for new leaders and new ideas.
+Kids need opportunities to lead and succeed.
+Are you ready to make the match?
+Because the world's problems shouldn't be the human family's heirloom.
+The creative process -- you know this -- from the first idea to the final product, is a long process.
+It's super-iterative, lots of refinement, blood, sweat, tears and years.
+And we're not saying you're going to go out for a walk and come back with the Sistine Chapel in your left hand.
+So what frame of the creative process did we focus on?
+Just this first part.
+Just brainstorming, coming up with a new idea.
+We actually ran four studies with a variety of people.
+You were either walking indoors or outdoors.
+And all of these studies found the same conclusion.
+I'm only going to tell you about one of them today.
+One of the tests we used for creativity was alternate uses.
+In this test, you have four minutes.
+Your job is to come up with as many other ways to use common everyday objects as you can think of.
+So, for example, what else would you do with a key, other than to use it for opening up a lock?
+Clearly, you could use it as a third eyeball for a giraffe, right?
+Maybe. That's sort of interesting, kind of new. But is it creative?
+So people came up with as many ideas as they could, and we had to decide Is this creative or not?
+The definition of creativity that a lot of people go with is appropriate novelty.
+For something to be appropriate, it has to be realistic, so unfortunately, you can't use a key as an eyeball.
+Boo!
+But novel, the second thing, is that nobody had to have said it.
+So for us, it had to be appropriate first, and then for novelty, nobody else in the entire population that we surveyed could have said it.
+So you might think you could use a key to scratch somebody's car, but if somebody else said that, you didn't get credit for it.
+Neither of you did.
+However, only one person said this If you were dying and it were a murder mystery, and you had to carve the name of the murderer into the ground with your dying words.
+One person said this.
+And it's a creative idea, because it's appropriate and it's novel.
+You either did this test and came up with ideas while you were seated or while you were walking on a treadmill.
+They did the test twice, with different objects.
+Three groups the first group sat first and then sat again for the second test.
+The second group sat first and then did the second test while walking on a treadmill.
+The third group -- and this is interesting -- they walked on the treadmill first, and then they sat.
+OK, so the two groups that sat together for the first test, they looked pretty similar to each other, and they averaged about 20 creative ideas per person.
+The group that was walking on the treadmill did almost twice as well.
+And they were just walking on a treadmill in a windowless room.
+Remember, they took the test twice.
+The people who sat twice for that second test didn't get any better practice didn't help.
+But these same people who were sitting and then went on the treadmill got a boost from walking.
+Here's the interesting thing.
+The people who were walking on the treadmill still had a residue effect of the walking, and they were still creative afterwards.
+So the implication of this is that you should go for a walk before your next big meeting and just start brainstorming right away.
+We have five tips for you that will help make this the best effect possible.
+First, you want to pick a problem or a topic to brainstorm.
+So, this is not the shower effect, when you're in the shower and all of a sudden, a new idea pops out of the shampoo bottle.
+This is something you're thinking about ahead of time.
+They're intentionally thinking about brainstorming a different perspective on the walk.
+Secondly -- I get asked this a lot Is this OK while running?
+Well, the answer for me is that if I were running, the only new idea I would have would be to stop running, so ...
+But if running for you is a comfortable pace, good.
+It turns out, whatever physical activity is not taking a lot of attention.
+So just walking at a comfortable pace is a good choice.
+Also, you want to come up with as many ideas as you can.
+One key of creativity is to not lock on that first idea.
+Keep going.
+Keep coming up with new ones, until you pick one or two to pursue.
+You might worry that you don't want to write them down, because what if you forget them?
+So the idea here is to speak them.
+Everybody was speaking their new ideas.
+So you can put your headphones on and record through your phone and then just pretend you're having a creative conversation, right?
+Because the act of writing your idea down is already a filter.
+You're going to be like, Is this good enough to write down?
+And then you write it down.
+So just speak as many as you can, record them and think about them later.
+And finally don't do this forever. Right?
+If you're on the walk and that idea's not coming to you, come back to it later at another time.
+I think we're coming up on a break right now, so I have an idea Why don't you grab a leash and take your thoughts for a walk?
+How do you explain when things don't go as we assume?
+Or better, how do you explain when others are able to achieve things that seem to defy all of the assumptions?
+For example Why is Apple so innovative?
+Year after year, after year, they're more innovative than all their competition.
+And yet, they're just a computer company.
+They're just like everyone else.
+They have the same access to the same talent, the same agencies, the same consultants, the same media.
+Then why is it that they seem to have something different?
+Why is it that Martin Luther King led the Civil Rights Movement?
+He wasn't the only man who suffered in pre-civil rights America, and he certainly wasn't the only great orator of the day.
+Why him?
+And why is it that the Wright brothers were able to figure out controlled, powered man flight when there were certainly other teams who were better qualified, better funded -- and they didn't achieve powered man flight, and the Wright brothers beat them to it.
+There's something else at play here.
+About three and a half years ago, I made a discovery.
+And this discovery profoundly changed my view on how I thought the world worked, and it even profoundly changed the way in which I operate in it.
+As it turns out, there's a pattern.
+As it turns out, all the great inspiring leaders and organizations in the world, whether it's Apple or Martin Luther King or the Wright brothers, they all think, act and communicate the exact same way.
+And it's the complete opposite to everyone else.
+All I did was codify it, and it's probably the world's simplest idea.
+I call it the golden circle.
+Why? How? What?
+This little idea explains why some organizations and some leaders are able to inspire where others aren't.
+Let me define the terms really quickly.
+Every single person, every single organization on the planet knows what they do, 100 percent.
+Some know how they do it, whether you call it your differentiated value proposition or your proprietary process or your USP.
+But very, very few people or organizations know why they do what they do.
+And by why I don't mean to make a profit.
+That's a result. It's always a result.
+By why, I mean What's your purpose?
+What's your cause? What's your belief?
+Why does your organization exist?
+Why do you get out of bed in the morning?
+And why should anyone care?
+As a result, the way we think, we act, the way we communicate is from the outside in, it's obvious.
+We go from the clearest thing to the fuzziest thing.
+But the inspired leaders and the inspired organizations -- regardless of their size, regardless of their industry -- all think, act and communicate from the inside out.
+Let me give you an example.
+I use Apple because they're easy to understand and everybody gets it.
+If Apple were like everyone else, a marketing message from them might sound like this We make great computers.
+They're beautifully designed, simple to use and user friendly.
+Want to buy one?
+Meh.
+That's how most of us communicate.
+That's how most marketing and sales are done, that's how we communicate interpersonally.
+We say what we do, we say how we're different or better and we expect some sort of a behavior, a purchase, a vote, something like that.
+Here's our new law firm We have the best lawyers with the biggest clients, we always perform for our clients.
+Here's our new car It gets great gas mileage, it has leather seats.
+Buy our car.
+But it's uninspiring.
+Here's how Apple actually communicates.
+Everything we do, we believe in challenging the status quo.
+We believe in thinking differently.
+The way we challenge the status quo is by making our products beautifully designed, simple to use and user friendly.
+We just happen to make great computers.
+Want to buy one?
+Totally different, right?
+You're ready to buy a computer from me.
+I just reversed the order of the information.
+What it proves to us is that people don't buy what you do people buy why you do it.
+This explains why every single person in this room is perfectly comfortable buying a computer from Apple.
