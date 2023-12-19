@@ -2,7 +2,6 @@
   "name": "google-translate",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "google_translate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
-    "axios": "^1.6.2"
+    "axios": "^1.6.2",
+    "https-proxy-agent": "^7.0.2",
+    "node-fetch": "^3.3.2"
   }
 }
